@@ -28,10 +28,6 @@ I'm Royden Dias, a computer science student at UWE Bristol. I enjoy developing u
 
 ### Connect with Me
 
-<a href="mailto:roydendias10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
 <a href="https://linkedin.com/in/roydendias">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
