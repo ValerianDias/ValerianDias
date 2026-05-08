@@ -12,27 +12,13 @@ I'm Royden Dias, a computer science student at UWE Bristol. I enjoy developing u
 
 ---
 
-### Featured Projects
-
-Here are a few projects I'm proud to share:
-
-<p align="center">
-  <a href="https://github.com/ValerianDias/saferoads-bristol-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValerianDias&repo=saferoads-bristol-ml&theme=tokyonight&hide_border=true" alt="saferoads-bristol-ml"/>
-  </a>
-</p>
+### Featured Project
 
 - **saferoads-bristol-ml** - Reproducible machine-learning analysis of Bristol traffic collisions (2020–2024). Builds and compares classifiers to predict collision severity; includes notebooks, results, and a written report.
 
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ValerianDias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Royden's GitHub Stats"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerianDias&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ValerianDias&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
