@@ -14,7 +14,7 @@ I'm Royden Dias, a computer science student at UWE Bristol. I enjoy developing u
 
 ### Featured Project
 
-- **saferoads-bristol-ml** - Reproducible machine-learning analysis of Bristol traffic collisions (2020–2024). Builds and compares classifiers to predict collision severity; includes notebooks, results, and a written report.
+- [**saferoads-bristol-ml**](https://github.com/ValerianDias/saferoads-bristol-ml) - Reproducible machine-learning analysis of Bristol traffic collisions (2020–2024). Builds and compares classifiers to predict collision severity; includes notebooks, results, and a written report.
 
 ---
 
