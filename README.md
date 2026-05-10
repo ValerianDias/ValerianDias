@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6EE7F7&height=130&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=600&color=6EE7F7&width=500&lines=Hey+there%2C+I%27m+Royden+Valerian+Dias+%F0%9F%91%8B;CS+Student+at+UWE+Bristol" alt="Animated typing text showing greeting and role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=600&color=6EE7F7&width=500&lines=Welcome+to+my+profile+%F0%9F%91%8B;I%27m+Royden+Valerian+Dias;CS+Student+at+UWE+Bristol" alt="Animated typing text: Welcome to my profile; I'm Royden Valerian Dias; CS Student at UWE Bristol"/>
 </a>
 
 ---
