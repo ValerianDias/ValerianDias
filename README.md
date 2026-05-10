@@ -14,7 +14,7 @@ I'm Royden Dias, a computer science student at UWE Bristol. I enjoy developing u
 
 ### Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=python,c,html,css,js,flask,mysql,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,python,c,html,css,js,flask,mysql,git,github)](https://skillicons.dev)
 
 ---
 
