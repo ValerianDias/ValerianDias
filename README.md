@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm Royden Dias, a computer science student at UWE Bristol. I enjoy developing useful applications and learning about new technologies. I am always open to collaborating on interesting projects so feel free to connect with me.
+I'm Royden Dias, a computer science student at UWE Bristol. I enjoy developing useful applications and learning about new technologies. I am always open to collaborating on interesting projects so feel free to reach out.
 
 ---
 
